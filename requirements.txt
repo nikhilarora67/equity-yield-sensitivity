@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+statsmodels>=0.14
+yfinance>=0.2.40
+matplotlib>=3.8
+pytest>=8.0
