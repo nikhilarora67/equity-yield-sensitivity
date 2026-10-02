@@ -1,0 +1,219 @@
+ticker,company,sector,sub_industry,cap_rank
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,5
+META,Meta Platforms,Communication Services,Interactive Media & Services,7
+NFLX,Netflix,Communication Services,Movies & Entertainment,38
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,57
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,62
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,65
+T,AT&T,Communication Services,Integrated Telecommunication Services,70
+APP,AppLovin,Communication Services,Advertising,110
+CMCSA,Comcast,Communication Services,Cable & Satellite,148
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,174
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,267
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,272
+ECHO,EchoStar,Communication Services,Wireless Telecommunication Services,326
+OMC,Omnicom Group,Communication Services,Advertising,378
+CHTR,Charter Communications,Communication Services,Cable & Satellite,433
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,455
+NWSA,News Corp (Class A),Communication Services,Publishing,
+TTD,Trade Desk (The),Communication Services,Advertising,
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,4
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,9
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,39
+MCD,McDonald's,Consumer Discretionary,Restaurants,71
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,85
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",94
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,106
+DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,144
+ORLY,O'Reilly Automotive,Consumer Discretionary,Automotive Retail,180
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,219
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",223
+DHI,D. R. Horton,Consumer Discretionary,Homebuilding,269
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,334
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,342
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,365
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,393
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,412
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,
+DECK,Deckers Brands,Consumer Discretionary,Footwear,
+HAS,Hasbro,Consumer Discretionary,Leisure Products,
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,15
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,27
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,28
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,33
+PM,Philip Morris International,Consumer Staples,Tobacco,41
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,66
+MO,Altria,Consumer Staples,Tobacco,104
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,154
+CL,Colgate-Palmolive,Consumer Staples,Household Products,175
+ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,260
+SYY,Sysco,Consumer Staples,Food Distributors,275
+KR,Kroger,Consumer Staples,Food Retail,280
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,286
+HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,288
+KMB,Kimberly-Clark,Consumer Staples,Household Products,297
+BG,Bunge Global,Consumer Staples,Agricultural Products & Services,371
+CASY,Casey's,Consumer Staples,Food Retail,376
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,383
+BF-B,Brown–Forman,Consumer Staples,Distillers & Vintners,
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,17
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,25
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,78
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,103
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,105
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,111
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,135
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,158
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,164
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,177
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,194
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,202
+OKE,Oneok,Energy,Oil & Gas Storage & Transportation,203
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,211
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,218
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,224
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,305
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,318
+TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,358
+EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,389
+BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,11
+JPM,JPMorgan Chase,Financials,Diversified Banks,13
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,16
+MA,Mastercard,Financials,Transaction & Payment Processing Services,20
+BAC,Bank of America,Financials,Diversified Banks,26
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,37
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,42
+AXP,American Express,Financials,Consumer Finance,56
+BLK,BlackRock,Financials,Asset Management & Custody Banks,76
+CB,Chubb Limited,Financials,Property & Casualty Insurance,89
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,95
+COF,Capital One,Financials,Consumer Finance,97
+SPGI,S&P Global,Financials,Financial Exchanges & Data,98
+BNY,BNY Mellon,Financials,Asset Management & Custody Banks,112
+CME,CME Group,Financials,Financial Exchanges & Data,120
+MRSH,Marsh McLennan,Financials,Insurance Brokers,147
+MET,MetLife,Financials,Life & Health Insurance,192
+FITB,Fifth Third Bancorp,Financials,Regional Banks,238
+AIG,American International Group,Financials,Multi-line Insurance,270
+EG,Everest Group,Financials,Reinsurance,437
+LLY,Lilly (Eli),Health Care,Pharmaceuticals,12
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,18
+ABBV,AbbVie,Health Care,Biotechnology,21
+MRK,Merck & Co.,Health Care,Pharmaceuticals,31
+UNH,UnitedHealth Group,Health Care,Managed Health Care,34
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,48
+AMGN,Amgen,Health Care,Biotechnology,58
+ABT,Abbott Laboratories,Health Care,Health Care Equipment,72
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,82
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,86
+CVS,CVS Health,Health Care,Health Care Services,100
+MCK,McKesson Corporation,Health Care,Health Care Distributors,113
+HCA,HCA Healthcare,Health Care,Health Care Facilities,128
+ELV,Elevance Health,Health Care,Managed Health Care,132
+CI,Cigna,Health Care,Health Care Services,167
+COR,Cencora,Health Care,Health Care Distributors,197
+VEEV,Veeva Systems,Health Care,Health Care Technology,257
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,344
+COO,Cooper Companies (The),Health Care,Health Care Supplies,
+UHS,Universal Health Services,Health Care,Health Care Facilities,
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,29
+GE,GE Aerospace,Industrials,Aerospace & Defense,36
+DE,Deere & Company,Industrials,Agricultural & Farm Machinery,67
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,75
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,77
+UBER,Uber,Industrials,Passenger Ground Transportation,84
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,102
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,109
+PWR,Quanta Services,Industrials,Construction & Engineering,124
+TT,Trane Technologies,Industrials,Building Products,126
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,140
+WM,Waste Management,Industrials,Environmental & Facilities Services,141
+MMM,3M,Industrials,Industrial Conglomerates,145
+CTAS,Cintas,Industrials,Diversified Support Services,155
+URI,United Rentals,Industrials,Trading Companies & Distributors,186
+DAL,Delta Air Lines,Industrials,Passenger Airlines,227
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,279
+VRSK,Verisk Analytics,Industrials,Research & Consulting Services,364
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,402
+GNRC,Generac,Industrials,Heavy Electrical Equipment,460
+NVDA,Nvidia,Information Technology,Semiconductors,1
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2
+MSFT,Microsoft,Information Technology,Systems Software,3
+AVGO,Broadcom,Information Technology,Semiconductors,8
+ORCL,Oracle Corporation,Information Technology,Application Software,22
+CSCO,Cisco,Information Technology,Communications Equipment,23
+PLTR,Palantir Technologies,Information Technology,Application Software,24
+DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",30
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,32
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,35
+PANW,Palo Alto Networks,Information Technology,Systems Software,40
+ANET,Arista Networks,Information Technology,Communications Equipment,46
+IBM,IBM,Information Technology,IT Consulting & Other Services,51
+APH,Amphenol,Information Technology,Electronic Components,61
+GLW,Corning Inc.,Information Technology,Electronic Components,87
+ACN,Accenture,Information Technology,IT Consulting & Other Services,101
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,200
+KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,208
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,332
+CDW,CDW Corporation,Information Technology,Technology Distributors,405
+LIN,Linde plc,Materials,Industrial Gases,55
+NEM,Newmont,Materials,Gold,88
+FCX,Freeport-McMoRan,Materials,Copper,114
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,156
+ECL,Ecolab,Materials,Specialty Chemicals,160
+APD,Air Products,Materials,Industrial Gases,185
+NUE,Nucor,Materials,Steel,196
+CRH,CRH plc,Materials,Construction Materials,205
+CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,216
+MLM,Martin Marietta Materials,Materials,Construction Materials,283
+STLD,Steel Dynamics,Materials,Steel,285
+VMC,Vulcan Materials Company,Materials,Construction Materials,302
+PPG,PPG Industries,Materials,Specialty Chemicals,361
+DOW,Dow Inc.,Materials,Commodity Chemicals,380
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,386
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,392
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,397
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,409
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",426
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,
+WELL,Welltower,Real Estate,Health Care REITs,74
+PLD,Prologis,Real Estate,Industrial REITs,92
+EQIX,Equinix,Real Estate,Data Center REITs,115
+AMT,American Tower,Real Estate,Telecom Tower REITs,150
+DLR,Digital Realty,Real Estate,Data Center REITs,178
+SPG,Simon Property Group,Real Estate,Retail REITs,182
+PSA,Public Storage,Real Estate,Self-Storage REITs,214
+O,Realty Income,Real Estate,Retail REITs,217
+VMRK,Vivmark Residential,Real Estate,Multi-Family Residential REITs,233
+VTR,Ventas,Real Estate,Health Care REITs,249
+CBRE,CBRE Group,Real Estate,Real Estate Services,263
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,289
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,306
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,311
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,333
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,414
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,428
+WY,Weyerhaeuser,Real Estate,Timber REITs,431
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,435
+BXP,"BXP, Inc.",Real Estate,Office REITs,
+NEE,NextEra Energy,Utilities,Multi-Utilities,73
+SO,Southern Company,Utilities,Electric Utilities,116
+CEG,Constellation Energy,Utilities,Electric Utilities,125
+DUK,Duke Energy,Utilities,Electric Utilities,130
+AEP,American Electric Power,Utilities,Electric Utilities,184
+D,Dominion Energy,Utilities,Multi-Utilities,209
+SRE,Sempra,Utilities,Multi-Utilities,221
+ETR,Entergy,Utilities,Electric Utilities,232
+VST,Vistra Corp.,Utilities,Electric Utilities,235
+XEL,Xcel Energy,Utilities,Multi-Utilities,247
+EXC,Exelon,Utilities,Electric Utilities,254
+ED,Consolidated Edison,Utilities,Multi-Utilities,271
+PEG,Public Service Enterprise Group,Utilities,Multi-Utilities,284
+PCG,PG&E Corporation,Utilities,Multi-Utilities,312
+AEE,Ameren,Utilities,Multi-Utilities,317
+ATO,Atmos Energy,Utilities,Gas Utilities,328
+DTE,DTE Energy,Utilities,Multi-Utilities,330
+AWK,American Water Works,Utilities,Water Utilities,331
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,367
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,
